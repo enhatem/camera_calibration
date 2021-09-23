@@ -1,0 +1,3 @@
+/home/elie/projects/camera_calibration/C++/camera_calibration/build/CMakeFiles/rebuild_cache.dir
+/home/elie/projects/camera_calibration/C++/camera_calibration/build/CMakeFiles/edit_cache.dir
+/home/elie/projects/camera_calibration/C++/camera_calibration/build/CMakeFiles/main.dir
